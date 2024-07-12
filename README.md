@@ -53,10 +53,10 @@ The helicopter moves forward automatically. Your task is to navigate up and down
 
 ## Screenshots
 
-![Main Menu](screenshots/screenshot1.png)
+![Main Menu](screenshots/screenshot1.PNG)
 *Main menu of the game.*
 
-![Gameplay](screenshots/screenshot2.png)
+![Gameplay](screenshots/screenshot2.PNG)
 *Gameplay showing the helicopter navigating through obstacles.*
 
 ## Contributing
