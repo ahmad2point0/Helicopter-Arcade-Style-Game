@@ -72,7 +72,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any inquiries or feedback, please reach out to:
 
 - Your Name
-- Email: your-email@example.com
-- GitHub: [your-username](https://github.com/your-username)
+- Email: aaziapk6@gmail.com
+- GitHub: [code2point0](https://github.com/code2point0)
 
 Enjoy the game and have fun flying your helicopter!
