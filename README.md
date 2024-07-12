@@ -53,10 +53,10 @@ The helicopter moves forward automatically. Your task is to navigate up and down
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
+![Main Menu](screenshots/screenshot1.png)
 *Main menu of the game.*
 
-![Screenshot 2](screenshots/screenshot2.png)
+![Gameplay](screenshots/screenshot2.png)
 *Gameplay showing the helicopter navigating through obstacles.*
 
 ## Contributing
@@ -72,11 +72,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any inquiries or feedback, please reach out to:
 
 - Your Name
-- Email: aaziapk6@gmail.com
-- GitHub: [code2point0](https://github.com/code2point0)
+- Email: your-email@example.com
+- GitHub: [your-username](https://github.com/your-username)
 
 Enjoy the game and have fun flying your helicopter!
-
----
-
-Feel free to customize this README to fit the specific details of your project.
